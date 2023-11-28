@@ -5,3 +5,4 @@ for i in range(10):
             print("{:d}{:d}, ".format(i, j), end='')
         else:
             print("{:d}{:d}".format(i, j))
+            
