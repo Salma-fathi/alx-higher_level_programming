@@ -1,7 +1,7 @@
-## JavaScript Warm-up
+JavaScript Warm-up
 Welcome to the JavaScript Warm-up project! This repository contains a series of JavaScript scripts aimed at helping you understand the basics of JavaScript programming. By completing the tasks outlined below, you will gain a solid foundation in JavaScript development.
 
-## ask Overview
+ask Overview
 This project includes a series of tasks designed to reinforce your understanding of JavaScript fundamentals. Each task has specific requirements and must be completed individually.
 
 First constant, first print
