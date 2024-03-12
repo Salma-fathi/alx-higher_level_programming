@@ -7,5 +7,3 @@ if (argc === 2) {
 } else if (argc > 3) {
   console.log('Arguments found');
 }
-
-
